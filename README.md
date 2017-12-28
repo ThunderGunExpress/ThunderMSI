@@ -9,7 +9,7 @@ Getting Started
 - Customize the code
   - Change the file inclusions
   - Change the persistent points
-- Use for to enhance security
+- Use to enhance security
 
 Check me out at https://ijustwannared.team
   
